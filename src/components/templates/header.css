@@ -1,0 +1,80 @@
+.full_header {
+  color: white;
+  text-align: center;
+  position: fixed;
+  font-size: 35px;
+  height: 100px;
+  width: 2485px;
+  z-index: 999;
+}
+.header {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 20px;
+  width: 870px;
+  height: 85px;
+}
+.header2 {
+  float: right;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+
+.home {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 250px;
+  padding: 20px;
+}
+
+.home:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.news:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.shop:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.news {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 250px;
+  margin-left: 290px;
+  margin-top: -87px;
+  padding: 20px;
+}
+
+.shop {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 250px;
+  margin-left: 580px;
+  margin-top: -86px;
+  padding: 20px;
+}
+
+.login {
+  background-color: goldenrod;
+  width: 250px;
+  padding: 20px;
+  transition: 0.4s;
+}
+
+.home:hover,
+.news:hover,
+.shop:hover {
+  color: cadetblue;
+}
+.active {
+  color: cadetblue;
+}
+
+audio::-webkit-media-controls-timeline,
+video::-webkit-media-controls-timeline {
+  display: none;
+}
+
+.login:hover {
+  box-shadow: inset 290px 0 0 0 rgb(240, 183, 38);
+}

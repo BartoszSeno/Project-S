@@ -1,0 +1,46 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "login": "Admin",
+      "email": "Admin@gmail.com",
+      "password": "Admin"
+    },
+    {
+      "id": 2,
+      "login": "bartek",
+      "email": "bartek@gmail.com",
+      "password": "1!Asdfghj"
+    },
+    {
+      "id": 3,
+      "login": "dupa@gmail.com",
+      "email": "dupa@gmail.com",
+      "password": "Asdfghjkl1!"
+    },
+    {
+      "id": 4,
+      "login": "tescik",
+      "email": "fasfd@gmail.com",
+      "password": "1!Asdfghjkl"
+    },
+    {
+      "id": 5,
+      "login": "dinker",
+      "email": "dasdffdsa@gmail.com",
+      "password": "1!Asdfghjkl"
+    },
+    {
+      "id": 6,
+      "login": "hujdase",
+      "email": "ggagghgf@gmail.com",
+      "password": "1!Asdfghjkl"
+    },
+    {
+      "id": 7,
+      "login": "Diables",
+      "email": "adsda@dsa",
+      "password": "1!Asdfghj"
+    }
+  ]
+}

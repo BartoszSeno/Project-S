@@ -1,0 +1,64 @@
+.mein_block {
+  background-color: skyblue;
+  color: white;
+  font-size: 100px;
+  height: 1305px;
+  width: 2485px;
+}
+
+.title_movie {
+  background-color: blueviolet;
+  padding-top: 400px;
+  margin-left: 30%;
+  margin-right: 40%;
+  width: 0;
+}
+.login {
+  color: white;
+}
+.ps {
+  font-size: 150px;
+  width: 1000px;
+  z-index: 10;
+}
+
+.ju {
+  width: 300px;
+  z-index: 10;
+  margin-top: 40px;
+  background-color: goldenrod;
+  font-size: 40px;
+  margin-left: 320px;
+  padding: 25px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.ju:hover {
+  box-shadow: inset 350px 0 0 0 rgb(240, 183, 38);
+}
+
+.moviee {
+  position: absolute;
+  margin-left: -994px;
+  width: 3150px;
+  z-index: 1;
+  margin-left: -1100px;
+  margin-top: -400px;
+}
+
+.title_boxx {
+  position: absolute;
+  z-index: 100;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.testblock {
+  position: absolute;
+  height: 30px;
+  width: 2380px;
+  z-index: 10000;
+}

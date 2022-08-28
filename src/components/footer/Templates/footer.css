@@ -1,0 +1,164 @@
+.footer_box {
+  background-image: url(../../../img/texture-img-dark.png);
+  filter: grayscale(40%);
+  height: 800px;
+  width: 2535px;
+}
+
+.media {
+  background-image: url(../../../img/texture-img-dark.png);
+  position: absolute;
+  margin-top: 130px;
+  height: 200px;
+  width: 2535px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.media_move {
+  margin-left: 400px;
+}
+
+.dc,
+.tw,
+.f,
+.ig,
+.yt,
+.ttv {
+  height: 130px;
+  width: 0px;
+  margin-top: 35px;
+  background-repeat: no-repeat;
+  background-size: 130px;
+  padding: 0px 80px 0px 52px;
+  border-radius: 50%;
+  filter: grayscale(100%);
+  box-shadow: 0 0 15px black;
+}
+
+.dc {
+  background-position-x: 2px;
+  background-image: url(../../../img/dc.png);
+  display: block;
+  background-position-x: 1.5px;
+}
+
+.dc:hover,
+.tw:hover,
+.f:hover,
+.ig:hover,
+.yt:hover,
+.ttv:hover {
+  filter: grayscale(0%);
+  cursor: pointer;
+}
+.tw {
+  margin-left: 300px;
+  margin-top: -130px;
+  background-image: url(../../../img/tw.png);
+  background-position-y: 12px;
+  background-size: 172px;
+  background-position-y: -20px;
+  background-position-x: -20px;
+}
+
+.f {
+  margin-left: 600px;
+  margin-top: -130px;
+  background-image: url(../../../img/f.png);
+  background-size: 140px;
+  background-position-y: -5px;
+  background-position-x: -4px;
+}
+
+.ig {
+  margin-left: 900px;
+  margin-top: -130px;
+  background-image: url(../../../img/ig.png);
+  background-size: 135px;
+  background-position-x: 0px;
+}
+
+.yt {
+  margin-left: 1200px;
+  background-image: url(../../../img/yt.png);
+  background-size: 130px;
+  margin-top: -130px;
+  background-size: 128px;
+  background-position-x: 2px;
+}
+
+.ttv {
+  margin-left: 1500px;
+  margin-top: -130px;
+  background-image: url(../../../img/ttv.png);
+  background-size: 140px;
+  background-position-y: -5px;
+  background-position-x: -3.4px;
+}
+
+.pgi_box {
+  position: absolute;
+  margin-top: 500px;
+  height: 200px;
+  width: 800px;
+  margin-left: 855px;
+}
+
+.pgi1,
+.pgi2,
+.pgi3,
+.pgi4 {
+  width: 150px;
+  height: 150px;
+  background-repeat: no-repeat;
+}
+
+.pgi1 {
+  background-image: url(../../../img/pegi18.png);
+  background-size: 150px;
+  height: 180px;
+}
+
+.pgi2 {
+  background-image: url(../../../img/violence-black-EN.png);
+  background-size: 150px;
+  margin-left: 200px;
+  margin-top: -165px;
+}
+
+.pgi3 {
+  background-image: url(../../../img/in-game-purchase-black-EN.png);
+  background-size: 150px;
+  margin-left: 400px;
+  margin-top: -150px;
+}
+
+.pgi4 {
+  background-image: url(../../../img/drugs-black-EN.png);
+  background-size: 150px;
+  margin-left: 600px;
+  margin-top: -150px;
+}
+
+.author_photo {
+  margin-top: 400px;
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  font-size: 30px;
+}
+
+.ph_author {
+  color: goldenrod;
+  text-transform: uppercase;
+}
+
+.ph_aut {
+  text-align: left;
+  list-style: none;
+}
+
+.ph_aut li {
+  margin-bottom: 5px;
+}

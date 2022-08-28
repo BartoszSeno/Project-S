@@ -1,0 +1,235 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.cointeinerLogin{
+  background-image: url(img/texture-img-light.png);
+  position: absolute;
+  width: 2510px;
+  margin-left: -10px;
+  height: 1305px;
+
+}
+
+.cointeiner {
+  
+  margin-left: -10px;
+}
+.titleLabel {
+  font-size: 40px;
+  color: #717b93;
+  width: 350px;
+  display: inline-block;
+  margin-bottom: 3px;
+}
+
+.titleLabelLogin{
+  font-size: 25px;
+  color: #41444d;
+  margin-left: -270px;
+  width: 350px;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.Login_Box > label{
+  margin-left: -330px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+  font-size: 40px;
+  border-radius: 5px;
+  padding: 12px;
+  margin-left: 10px;
+  background-color: #10141f;
+  color: white;
+  border: 4px solid #2a3860;
+}
+
+.instructions {
+  font-size: 30px;
+  color: red;
+  width: 350px;
+  position: relative;
+  bottom: -5px;
+  margin: 0;
+  padding: 0;
+  margin-left: 25px;
+  transition: 0.3s;
+}
+
+.offscreen {
+  position: absolute;
+  top: -9999px;
+  margin-top: -50px;
+  margin-left: 25px;
+}
+
+.formBox{
+  padding-top: 50px;
+  width: 600px;
+  height: 1250px;
+  margin-left: 1905px;
+  position: absolute;
+  z-index: 10;
+}
+
+.bgBox{
+  background-image: url(img/texture-img-dark.png);
+  width: 600px;
+  height: 1305px;
+  margin-left: 1905px;
+  opacity: 0.9;
+  position: absolute;
+}
+.testone {
+  border: 4px solid red !important;
+  border-radius: 8px;
+  font-size: 40px;
+}
+
+input[aria-invalid="false"] {
+  border: 4px solid green;
+}
+
+input[aria-invalid="true"] {
+  border: 4px solid red;
+}
+
+.testtwo {
+  border: 4px solid green;
+}
+
+input:focus {
+  outline: none;
+}
+
+.buttonlogin {
+  margin-top: 60px;
+  font-size: 40px;
+  border-radius: 5px;
+  padding: 12px;
+  width: 520px;
+  background-color: rgb(135, 100, 13);
+  border: 3px solid #10141f;
+  color: white;
+  cursor: pointer;
+}
+
+button:disabled {
+  border: 3px solid #10141f;
+  background-color: rgb(77, 57, 7);
+  color: #666666;
+  cursor: no-drop;
+}
+
+.red {
+  background-color: red;
+  width: 200px;
+  height: 20px;
+}
+
+.dsadas {
+  color: red;
+  font-size: 30px;
+  position: absolute;
+  margin-top: -300px;
+  margin-left: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: goldenrod;
+}
+
+.lgacc {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 2065px;
+  position: absolute;
+  margin-top: 900px;
+  z-index: 11;
+}
+
+.loginBox{
+  height: 400px;
+  width: 600px;
+  margin-top: 200px;
+  margin-left: 900px;
+}
+
+.userlogin{
+  margin-left: -50px;
+}
+
+.Login_Box,
+.password{
+  margin-left: -10px;
+}
+
+.lgaccLogin{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 1040px;
+  position: absolute;
+}
+
+.here{
+  color: goldenrod;
+}
+
+.passwordMatch,
+.email{
+  margin-left: -10px;
+}
+
+.cfp{
+  margin-left: -100px;
+}
+
+.psw{
+  margin-left: -250px;
+}
+
+.ema{
+  margin-left: -330px;
+}
+
+.gowqno{
+  display: none;
+}
+
+.movie_register{
+  z-index: -10;
+  position: absolute;
+width: 3134px;
+margin-left: -1600px;
+}
+
+.logo{
+  position: absolute;
+  font-size: 100px;
+  margin-left: -1220px;
+  font-weight: bold;
+  color: black;
+}
+
+.lgreg{
+  color: white;
+  margin-left: -1210px;
+}

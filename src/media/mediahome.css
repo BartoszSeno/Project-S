@@ -1,0 +1,1018 @@
+@media (max-width: 2400px) {
+  .mein_block {
+    font-size: 100px;
+    height: 1305px;
+    width: 2400px;
+  }
+
+  .title_movie {
+    padding-top: 400px;
+    margin-left: 30%;
+    margin-right: 40%;
+  }
+
+  .ps {
+    font-size: 150px;
+    width: 900px;
+  }
+
+  .ju {
+    width: 300px;
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left: 270px;
+    padding: 25px;
+  }
+
+  .moviee {
+    margin-left: -994px;
+    width: 3000px;
+    margin-left: -1100px;
+    margin-top: -400px;
+  }
+
+  .testblock {
+    z-index: 10000;
+  }
+
+  .header {
+    margin-left: 120px;
+    margin-top: 19px;
+    height: 80px;
+  }
+
+  .home {
+    width: 232px;
+    padding: 20px;
+    height: 41px;
+  }
+
+  .news {
+    width: 232px;
+    margin-left: 272px;
+    margin-top: -81px;
+    height: 41px;
+  }
+
+  .shop {
+    width: 230px;
+    margin-left: 544px;
+    margin-top: -81px;
+    height: 41px;
+  }
+
+  .login {
+    font-size: 32px;
+    width: 250px;
+    margin-right: 100px;
+  }
+  /* ====================================================== */
+
+  .slider {
+    width: 1080px;
+    left: 28%;
+    top: 45%;
+  }
+
+  .image {
+    width: 1000px;
+    height: 600px;
+    border-radius: 10px;
+    margin-left: -180px;
+  }
+
+  .right-arrow {
+    right: 0px;
+    font-size: 130px;
+  }
+
+  .left-arrow {
+    left: -200px;
+    font-size: 130px;
+  }
+
+  .silider_box {
+    width: 2538px;
+    height: 1306px;
+    margin-top: -60px;
+  }
+
+  .about_game {
+    font-size: 140px;
+    margin-top: 500px;
+    margin-left: -160px;
+  }
+  .img_title {
+    font-size: 35px;
+    margin-bottom: 15px;
+  }
+  .img_full_text_box {
+    font-size: 25px;
+    width: 1200px;
+    margin-left: -950px;
+    margin-top: 350px;
+  }
+
+  .random_box {
+    height: 450px;
+    width: 200px;
+    margin-left: 2200px;
+    margin-top: 100px;
+  }
+
+  .random_box_two {
+    margin-left: 290px;
+    margin-top: -558px;
+    height: 1306px;
+    width: 5px;
+  }
+
+  .bbf {
+    margin-top: 350px;
+    margin-left: 2140px;
+  }
+
+  /* ====================================================== */
+
+  .latest_newss {
+    font-size: 150px;
+    margin-left: 740px;
+    margin-top: 30px;
+  }
+  .news_three_boxx {
+    padding-top: 250px;
+    width: 2100px;
+    height: 800px;
+    margin-left: 130px;
+  }
+
+  .news_imgg img {
+    height: 400px;
+    width: 600px;
+  }
+
+  .news_boxxx {
+    width: 700px;
+    height: 700px;
+  }
+
+  .news_textt {
+    width: 500px;
+  }
+
+  .news_text_boxx {
+    height: 200px;
+    width: 600px;
+    margin-top: -5px;
+  }
+
+  .news_titlee {
+    font-size: 40px;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+
+  .news_textt {
+    font-size: 25px;
+    margin-top: 65px;
+    margin-left: 20px;
+  }
+
+  .news_positionn {
+    width: 600px;
+    margin-left: 50px;
+  }
+
+  .button_boxx {
+    margin-left: -200px;
+    padding-bottom: 50px;
+  }
+
+  .button_moree {
+    font-size: 30px;
+    height: 100px;
+    width: 350px;
+    border-radius: 5px;
+  }
+
+  .staticTestt {
+    height: 10px;
+    width: 2485px;
+  }
+
+  .line1 {
+    height: 1px;
+    width: 2485px;
+    margin-top: 128px;
+  }
+
+  .line2 {
+    height: 129px;
+    width: 1px;
+    margin-left: 290px;
+  }
+
+  /* ====================================================== */
+
+  .footer_box {
+    height: 800px;
+    width: 2400px;
+  }
+
+  .media {
+    margin-top: 130px;
+    height: 200px;
+    width: 2400px;
+    margin-left: -50px;
+  }
+
+  .media_move {
+    margin-left: 400px;
+  }
+
+  .dc,
+  .tw,
+  .f,
+  .ig,
+  .yt,
+  .ttv {
+    height: 130px;
+    width: 0px;
+    margin-top: 35px;
+    background-size: 130px;
+    padding: 0px 80px 0px 52px;
+    border-radius: 50%;
+  }
+
+  .dc {
+    background-position-x: 2px;
+    background-position-x: 1.5px;
+  }
+
+  .tw {
+    margin-left: 300px;
+    margin-top: -130px;
+    background-position-y: 12px;
+    background-size: 172px;
+    background-position-y: -20px;
+    background-position-x: -20px;
+  }
+
+  .f {
+    margin-left: 600px;
+    margin-top: -130px;
+    background-size: 140px;
+    background-position-y: -5px;
+    background-position-x: -4px;
+  }
+
+  .ig {
+    margin-left: 900px;
+    margin-top: -130px;
+    background-size: 135px;
+    background-position-x: 0px;
+  }
+
+  .yt {
+    margin-left: 1200px;
+    background-size: 130px;
+    margin-top: -130px;
+    background-size: 128px;
+    background-position-x: 2px;
+  }
+
+  .ttv {
+    margin-left: 1500px;
+    margin-top: -130px;
+    background-size: 140px;
+    background-position-y: -5px;
+    background-position-x: -3.4px;
+  }
+
+  .pgi_box {
+    margin-top: 500px;
+    height: 200px;
+    width: 800px;
+    margin-left: 855px;
+  }
+
+  .pgi1,
+  .pgi2,
+  .pgi3,
+  .pgi4 {
+    width: 150px;
+    height: 150px;
+  }
+
+  .pgi1 {
+    background-size: 150px;
+    height: 180px;
+  }
+
+  .pgi2 {
+    background-size: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+  }
+
+  .pgi3 {
+    background-size: 150px;
+    margin-left: 400px;
+    margin-top: -150px;
+  }
+
+  .pgi4 {
+    background-size: 150px;
+    margin-left: 600px;
+    margin-top: -150px;
+  }
+
+  .author_photo {
+    margin-top: 400px;
+    width: 400px;
+    height: 300px;
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 2134px) {
+  .mein_block {
+    height: 1305px;
+    width: 2134px;
+  }
+
+  .title_movie {
+    padding-top: 400px;
+    margin-left: 30%;
+    margin-right: 40%;
+  }
+
+  .ps {
+    font-size: 140px;
+    width: 800px;
+  }
+
+  .ju {
+    margin-left: 230px;
+    padding: 25px;
+  }
+
+  .moviee {
+    margin-left: -994px;
+    width: 2834px;
+    margin-left: -1100px;
+    margin-top: -400px;
+  }
+
+  .header {
+    margin-left: 105px;
+    margin-top: 16.5px;
+    height: 80px;
+    font-size: 31px;
+  }
+
+  .home {
+    width: 202px;
+    height: 32px;
+  }
+
+  .news {
+    width: 202px;
+    margin-left: 242px;
+    margin-top: -72px;
+    height: 32px;
+  }
+
+  .shop {
+    width: 201px;
+    margin-left: 484px;
+    margin-top: -72px;
+    height: 32px;
+  }
+
+  .login {
+    font-size: 31px;
+    width: 250px;
+    margin-right: 358px;
+    height: 33px;
+    padding: 20px 0px 20px 0px;
+  }
+
+  /* ====================================================== */
+
+  .slider {
+    width: 1080px;
+    left: 28%;
+    top: 45%;
+  }
+
+  .image {
+    width: 1000px;
+    height: 600px;
+    border-radius: 10px;
+    margin-left: -390px;
+  }
+
+  .right-arrow {
+    right: 100px;
+    font-size: 130px;
+  }
+
+  .left-arrow {
+    left: -320px;
+    font-size: 130px;
+  }
+
+  .silider_box {
+    width: 2538px;
+    height: 1206px;
+    margin-top: -130px;
+  }
+
+  .about_game {
+    font-size: 140px;
+    margin-top: 500px;
+    margin-left: -220px;
+  }
+  .img_title {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .img_full_text_box {
+    font-size: 20px;
+    width: 1000px;
+    margin-left: -950px;
+    margin-top: 350px;
+  }
+
+  /* random blue block*/
+
+  .random_box {
+    height: 450px;
+    width: 200px;
+    margin-left: 1930px;
+    margin-top: 100px;
+  }
+
+  .random_box_two {
+    margin-left: 230px;
+    margin-top: -552px;
+    height: 1200px;
+    width: 5px;
+  }
+
+  .bbf {
+    margin-top: 350px;
+    margin-left: 1870px;
+  }
+
+  .bb7 {
+    margin-left: 280px;
+    margin-top: 70px;
+    height: 60px;
+  }
+  .bb8 {
+    margin-left: 280px;
+    margin-top: 150px;
+  }
+  .bb9 {
+    margin-left: 280px;
+    margin-top: 170px;
+  }
+
+  /* ====================================================== */
+
+  .latest_newss {
+    font-size: 130px;
+    margin-left: 700px;
+    margin-top: 0px;
+  }
+  .news_three_boxx {
+    padding-top: 250px;
+    width: 2100px;
+    height: 700px;
+    margin-left: 150px;
+  }
+
+  .news_imgg img {
+    height: 300px;
+    width: 500px;
+  }
+
+  .news_boxxx {
+    width: 600px;
+    height: 700px;
+  }
+
+  .news_textt {
+    width: 400px;
+  }
+
+  .news_text_boxx {
+    height: 200px;
+    width: 500px;
+    margin-top: -5px;
+  }
+
+  .news_titlee {
+    font-size: 40px;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+
+  .news_textt {
+    font-size: 25px;
+    margin-top: 65px;
+    margin-left: 20px;
+  }
+
+  .news_positionn {
+    width: 500px;
+    margin-left: 50px;
+  }
+
+  .button_boxx {
+    margin-left: -200px;
+    padding-bottom: 50px;
+  }
+
+  .button_moree {
+    font-size: 30px;
+    height: 100px;
+    width: 350px;
+    border-radius: 5px;
+  }
+
+  .staticTestt {
+    height: 10px;
+    width: 2485px;
+  }
+
+  .line1 {
+    height: 1px;
+    width: 2485px;
+    margin-top: 100px;
+  }
+
+  .line2 {
+    height: 100px;
+    width: 1px;
+    margin-left: 229px;
+  }
+  /* ====================================================== */
+
+  .footer_box {
+    height: 800px;
+    width: 2134px;
+  }
+
+  .media {
+    margin-top: 130px;
+    height: 200px;
+    width: 2134px;
+    margin-left: -50px;
+  }
+
+  .media_move {
+    margin-left: 270px;
+  }
+
+  .dc,
+  .tw,
+  .f,
+  .ig,
+  .yt,
+  .ttv {
+    height: 130px;
+    border-radius: 50%;
+  }
+
+  .tw {
+    margin-left: 300px;
+    margin-top: -130px;
+    background-position-y: 12px;
+    background-size: 172px;
+    background-position-y: -20px;
+    background-position-x: -20px;
+  }
+
+  .f {
+    margin-left: 600px;
+    margin-top: -130px;
+    background-size: 140px;
+    background-position-y: -5px;
+    background-position-x: -4px;
+  }
+
+  .ig {
+    margin-left: 900px;
+    margin-top: -130px;
+    background-size: 135px;
+    background-position-x: 0px;
+  }
+
+  .yt {
+    margin-left: 1200px;
+    background-size: 130px;
+    margin-top: -130px;
+    background-size: 128px;
+    background-position-x: 2px;
+  }
+
+  .ttv {
+    margin-left: 1500px;
+    margin-top: -130px;
+    background-size: 140px;
+    background-position-y: -5px;
+    background-position-x: -3.4px;
+  }
+
+  .pgi_box {
+    margin-top: 500px;
+    height: 200px;
+    width: 800px;
+    margin-left: 700px;
+  }
+
+  .pgi1,
+  .pgi2,
+  .pgi3,
+  .pgi4 {
+    width: 150px;
+    height: 150px;
+  }
+
+  .pgi1 {
+    background-size: 150px;
+    height: 180px;
+  }
+
+  .pgi2 {
+    background-size: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+  }
+
+  .pgi3 {
+    background-size: 150px;
+    margin-left: 400px;
+    margin-top: -150px;
+  }
+
+  .pgi4 {
+    background-size: 150px;
+    margin-left: 600px;
+    margin-top: -150px;
+  }
+
+  .author_photo {
+    margin-top: 400px;
+    width: 400px;
+    height: 300px;
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .mein_block {
+    height: 1305px;
+    width: 1920px;
+  }
+
+  .title_movie {
+    padding-top: 370px;
+    margin-left: 30%;
+    margin-right: 40%;
+  }
+
+  .ps {
+    font-size: 120px;
+    width: 700px;
+  }
+
+  .ju {
+    margin-left: 190px;
+    padding: 25px;
+  }
+
+  .moviee {
+    margin-left: -994px;
+    width: 2434px;
+    margin-left: -700px;
+    margin-top: -400px;
+  }
+
+  .header {
+    margin-left: 95px;
+    margin-top: 16px;
+    height: 80px;
+    font-size: 28px;
+  }
+
+  .home {
+    width: 180px;
+    height: 25px;
+  }
+
+  .news {
+    width: 180px;
+    margin-left: 220px;
+    margin-top: -65px;
+    height: 25px;
+  }
+
+  .shop {
+    width: 173px;
+    margin-left: 440px;
+    margin-top: -65px;
+    height: 25px;
+  }
+
+  .login {
+    font-size: 28px;
+    width: 240px;
+    margin-right: 559px;
+    height: 33px;
+    padding: 20px 0px 20px 0px;
+  }
+
+  /* ====================================================== */
+
+  .slider {
+    width: 1080px;
+    left: 28%;
+    top: 45%;
+  }
+
+  .image {
+    width: 800px;
+    height: 450px;
+    border-radius: 10px;
+    margin-left: -600px;
+  }
+
+  .right-arrow {
+    right: 330px;
+    font-size: 130px;
+  }
+
+  .left-arrow {
+    left: -320px;
+    font-size: 130px;
+  }
+
+  .silider_box {
+    width: 2538px;
+    height: 1106px;
+    margin-top: -325px;
+  }
+
+  .about_game {
+    font-size: 120px;
+    margin-top: 500px;
+    margin-left: -155px;
+  }
+  .img_title {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .img_full_text_box {
+    font-size: 20px;
+    width: 750px;
+    margin-left: -750px;
+    margin-top: 300px;
+  }
+
+  /* random blue block*/
+
+  .random_box {
+    height: 450px;
+    width: 200px;
+    margin-left: 1700px;
+    margin-top: 100px;
+  }
+
+  .random_box_two {
+    margin-left: 230px;
+    margin-top: -554px;
+    height: 1103px;
+    width: 5px;
+  }
+
+  .bbf {
+    margin-top: 350px;
+    margin-left: 1640px;
+  }
+
+  .bb7 {
+    margin-left: 280px;
+    margin-top: -10px;
+    height: 60px;
+  }
+  .bb8 {
+    margin-left: 280px;
+    margin-top: 65px;
+  }
+  .bb9 {
+    margin-left: 280px;
+    margin-top: 85px;
+  }
+
+  /* ====================================================== */
+
+  .latest_newss {
+    font-size: 120px;
+    margin-left: 560px;
+    margin-top: 0px;
+  }
+  .news_three_boxx {
+    padding-top: 250px;
+    width: 2100px;
+    height: 700px;
+    margin-left: 50px;
+  }
+
+  .news_imgg img {
+    height: 300px;
+    width: 500px;
+  }
+
+  .news_boxxx {
+    width: 600px;
+    height: 700px;
+  }
+
+  .news_textt {
+    width: 400px;
+  }
+
+  .news_text_boxx {
+    height: 200px;
+    width: 500px;
+    margin-top: -5px;
+  }
+
+  .news_titlee {
+    font-size: 40px;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+
+  .news_textt {
+    font-size: 25px;
+    margin-top: 65px;
+    margin-left: 20px;
+  }
+
+  .news_positionn {
+    width: 500px;
+    margin-left: 50px;
+  }
+
+  .button_boxx {
+    margin-left: -200px;
+    padding-bottom: 50px;
+  }
+
+  .button_moree {
+    font-size: 30px;
+    height: 100px;
+    width: 350px;
+    border-radius: 5px;
+  }
+
+  .staticTestt {
+    height: 10px;
+    width: 2485px;
+  }
+
+  .line1 {
+    height: 1px;
+    width: 2485px;
+    margin-top: 100px;
+  }
+
+  .line2 {
+    height: 100px;
+    width: 1px;
+    margin-left: 229px;
+  } /* ====================================================== */
+
+  .footer_box {
+    height: 700px;
+    width: 2134px;
+  }
+
+  .media {
+    margin-top: 130px;
+    height: 150px;
+    width: 2134px;
+    margin-left: -50px;
+  }
+
+  .media_move {
+    margin-top: -5px;
+    margin-left: 200px;
+  }
+
+  .dc,
+  .tw,
+  .f,
+  .ig,
+  .yt,
+  .ttv {
+    height: 95px;
+    width: 0px;
+    margin-top: 35px;
+    background-size: 100px;
+    padding: 0px 45px 0px 52px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    box-shadow: 0 0 15px black;
+  }
+
+  .tw {
+    margin-left: 300px;
+    margin-top: -95px;
+    background-position-y: 12px;
+    background-size: 132px;
+    background-position-y: -20px;
+    background-position-x: -20px;
+  }
+
+  .f {
+    margin-left: 600px;
+    margin-top: -95px;
+    background-size: 105px;
+    background-position-y: -5px;
+    background-position-x: -4px;
+  }
+
+  .ig {
+    margin-left: 900px;
+    margin-top: -95px;
+    background-size: 99px;
+    background-position-x: 0px;
+  }
+
+  .yt {
+    margin-left: 1200px;
+    background-size: 130px;
+    margin-top: -100px;
+    background-size: 100px;
+    background-position-x: 2px;
+  }
+
+  .ttv {
+    margin-left: 1500px;
+    margin-top: -95px;
+    background-size: 105px;
+    background-position-y: -5px;
+    background-position-x: -3.4px;
+  }
+
+  .pgi_box {
+    margin-top: 500px;
+    height: 200px;
+    width: 800px;
+    margin-left: 650px;
+  }
+
+  .pgi1,
+  .pgi2,
+  .pgi3,
+  .pgi4 {
+    width: 150px;
+    height: 150px;
+  }
+
+  .pgi1 {
+    background-size: 130px;
+    height: 180px;
+  }
+
+  .pgi2 {
+    background-size: 120px;
+    margin-left: 180px;
+    margin-top: -160px;
+  }
+
+  .pgi3 {
+    background-size: 120px;
+    margin-left: 340px;
+    margin-top: -145px;
+  }
+
+  .pgi4 {
+    background-size: 120px;
+    margin-left: 500px;
+    margin-top: -145px;
+  }
+
+  .author_photo {
+    margin-top: 400px;
+    width: 400px;
+    height: 300px;
+    font-size: 30px;
+  }
+}
