@@ -1,7 +1,11 @@
 .shop_limited_move {
   background-image: url(../../../img/texture-img-dark.png);
-  width: 2485px;
+  width: 2545px;
   height: 1200px;
+}
+
+.shop_box {
+  width: 2510px;
 }
 
 .Limited_edition {
@@ -26,14 +30,13 @@
 
 .shop_four_box {
   background-image: url(../../../img/texture-img-light.png);
-
-  width: 2485px;
+  width: 2545px;
   height: 1500px;
 }
 
 .shop_moved {
   position: absolute;
-  width: 2400px;
+  width: 2510px;
   height: 20px;
   margin-left: 50px;
   margin-top: -450px;

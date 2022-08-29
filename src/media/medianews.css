@@ -1,0 +1,43 @@
+@media (max-width: 2400px) {
+  .news_three_box {
+    margin-left: 130px;
+  }
+}
+
+@media (max-width: 2134px) {
+  .news_three_box {
+    margin-left: 120px;
+  }
+
+  .news_img img {
+    height: 320px;
+    width: 500px;
+  }
+
+  .news_boxx {
+    width: 600px;
+    height: 600px;
+  }
+
+  .news_text_box {
+    width: 500px;
+  }
+
+  .news_text {
+    width: 450px;
+  }
+
+  .news_position {
+    width: 500px;
+  }
+
+  .button_box {
+    margin-left: -340px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .news_three_box {
+    margin-left: 50px;
+  }
+}

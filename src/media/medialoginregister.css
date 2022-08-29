@@ -1,0 +1,196 @@
+@media (max-width: 2400px) {
+  .loginBox {
+    height: 400px;
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 850px;
+  }
+
+  .lgaccLogin {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 950px;
+  }
+  .formBox {
+    padding-top: 50px;
+    width: 600px;
+    height: 1000px;
+    margin-left: 1800px;
+    z-index: 10;
+  }
+
+  .lgacc {
+    font-size: 40px;
+    margin-left: 1920px;
+    margin-top: 900px;
+  }
+
+  .bgBox {
+    width: 600px;
+    height: 1221px;
+    margin-left: 1810px;
+  }
+  .movie_register {
+    width: 2930px;
+    margin-left: -1600px;
+  }
+
+  .logo {
+    margin-top: 40px;
+  }
+  .instructions {
+    font-size: 25px;
+    width: 350px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 2134px) {
+  .logo {
+    margin-top: 40px;
+  }
+  .loginBox {
+    height: 400px;
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 750px;
+  }
+  .lgaccLogin {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 850px;
+  }
+  .formBox {
+    padding-top: 50px;
+    width: 600px;
+    height: 1030px;
+    margin-left: 1600px;
+    z-index: 10;
+  }
+
+  .lgacc {
+    font-size: 30px;
+    margin-left: 1760px;
+    margin-top: 700px;
+  }
+
+  .bgBox {
+    width: 500px;
+    height: 1085px;
+    margin-left: 1650px;
+  }
+  .movie_register {
+    width: 2605px;
+    margin-left: -1600px;
+  }
+
+  .logo {
+    margin-top: 40px;
+  }
+  input[type="text"],
+  input[type="password"],
+  input[type="email"] {
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 12px;
+    margin-left: 10px;
+  }
+  .buttonlogin {
+    margin-top: 60px;
+    font-size: 40px;
+    border-radius: 5px;
+    padding: 12px;
+    width: 380px;
+  }
+  .titleLabel {
+    font-size: 30px;
+  }
+  .ema {
+    margin-left: -300px;
+  }
+  .instructions {
+    font-size: 25px;
+    width: 350px;
+    padding-bottom: 10px;
+    margin-left: 80px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .logo {
+    margin-top: 40px;
+    font-size: 90px;
+  }
+  .loginBox {
+    height: 400px;
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 650px;
+  }
+  .lgaccLogin {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 750px;
+  }
+  .formBox {
+    padding-top: 50px;
+    width: 600px;
+    height: 830px;
+    margin-left: 1380px;
+    z-index: 10;
+  }
+
+  .lgacc {
+    font-size: 25px;
+    margin-left: 1570px;
+    margin-top: 680px;
+  }
+
+  .bgBox {
+    width: 500px;
+    height: 977px;
+    margin-left: 1450px;
+  }
+  .movie_register {
+    width: 2345px;
+    margin-left: -1600px;
+  }
+
+  .logo {
+    margin-top: 40px;
+  }
+  input[type="text"],
+  input[type="password"],
+  input[type="email"] {
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 12px;
+    margin-left: 10px;
+  }
+  .buttonlogin {
+    margin-top: 60px;
+    font-size: 40px;
+    border-radius: 5px;
+    padding: 12px;
+    width: 380px;
+  }
+  .titleLabel {
+    font-size: 30px;
+  }
+  .ema {
+    margin-left: -300px;
+  }
+  .instructions {
+    font-size: 25px;
+    width: 350px;
+    padding-bottom: 10px;
+    margin-left: 80px;
+  }
+  label[for="username"] {
+    margin-left: -200px;
+  }
+  label[for="password"] {
+    margin-left: -130px;
+  }
+}
