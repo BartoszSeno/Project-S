@@ -1,4 +1,3 @@
-import { useRef, useState, useEffect } from "react";
 import "../register.css";
 import { Link } from "react-router-dom";
 
@@ -31,7 +30,7 @@ function LoginForm({
   LogincheckAv,
   passPassAv,
   PassAv,
-  handleSubmitLogin
+  handleSubmitLogin,
 }) {
   return (
     <>
@@ -41,9 +40,11 @@ function LoginForm({
         </section>
       ) : (
         <section className="cointeinerLogin">
-        <div>
-        <Link className="logo" to="/">Project S</Link> 
-        </div>
+          <div>
+            <Link className="logo" to="/">
+              Project S
+            </Link>
+          </div>
           <form onSubmit={handleSubmitLogin} className="loginBox">
             {/*=========//Login//=========*/}
             <div className="Login_Box">
@@ -73,7 +74,7 @@ function LoginForm({
                   validtest && !LogincheckAv ? "instructions" : "offscreen"
                 }
               >
-              Podaj Login
+                Podaj Login
               </p>
             </div>
             {/*=========//PASSWORD//=========*/}
@@ -96,8 +97,7 @@ function LoginForm({
                   passPassAv();
                 }}
                 aria-invalid={PassAv ? "false" : ""}
-                  className={passwordFocus && !PassAv ? "testone" : "testtwo"}
-                
+                className={passwordFocus && !PassAv ? "testone" : "testtwo"}
               />
               <p
                 id="uidnote"
@@ -121,7 +121,9 @@ function LoginForm({
           <div className="lgaccLogin">
             <p>have'nt account ?</p>
             <p>
-              <Link className="here" to="/register">Register here</Link>
+              <Link className="here" to="/register">
+                Register here
+              </Link>
             </p>
           </div>
         </section>
