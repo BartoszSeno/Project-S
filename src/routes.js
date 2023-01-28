@@ -11,7 +11,8 @@ import Shop from "./shop/shop.js";
 
 function Register({ test }) {
   const inputRef = useRef();
-  const API_URL = "http://localhost:3530/register";
+  const API_URL =
+    "https://my-json-server.typicode.com/BartoszSeno/jsonapi-user/register";
   const [items, setItems] = useState([]);
 
   useEffect(() => {
@@ -306,7 +307,7 @@ function Register({ test }) {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Project-S">
         <ScrollToTop />
 
         <Routes>
