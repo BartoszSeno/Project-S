@@ -17,7 +17,7 @@ function Mainone() {
             className="moviee"
           >
             <source
-              src="/maleficent-clip001.mp4"
+              src="game\src\img\maleficent-clip001 copy.mp4"
               type="video/mp4"
               className="movieee"
             ></source>
