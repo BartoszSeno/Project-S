@@ -17,7 +17,7 @@ function Mainone() {
             className="moviee"
           >
             <source
-              src="maleficent.mp4"
+              src="https://cdn-animation.artstation.com/p/video_sources/000/355/564/maleficent-clip001.mp4"
               type="video/mp4"
               className="movieee"
             ></source>
