@@ -47,10 +47,12 @@ function RegisterForm({
         </section>
       ) : (
         <section className="cointeiner">
-        <div>
-        <Link className="logo lgreg" to="/">Project S</Link> 
-        </div>
-        <video
+          <div>
+            <Link className="logo lgreg" to="/">
+              Project S
+            </Link>
+          </div>
+          <video
             width="1900"
             muted="muted"
             preload="none"
@@ -61,7 +63,7 @@ function RegisterForm({
             className="movie_register"
           >
             <source
-              src="/maleficent-clip001.mp4"
+              src="https://cdn-animation.artstation.com/p/video_sources/000/355/564/maleficent-clip001.mp4"
               type="video/mp4"
               className="movie_register2"
             ></source>
@@ -214,13 +216,14 @@ function RegisterForm({
             </button>
           </form>
           <div className="bgBox"></div>
-
         </section>
       )}
       <div className="lgacc">
         <p>have account ?</p>
         <p>
-          <Link className="here" to="/login">Login here</Link>
+          <Link className="here" to="/login">
+            Login here
+          </Link>
         </p>
       </div>
     </>

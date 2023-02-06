@@ -3,7 +3,7 @@
   position: absolute;
   width: 2550px;
   margin-left: -10px;
-  height: 1305px;
+  height: 100%;
 }
 
 .cointeiner {
@@ -64,7 +64,6 @@ input[type="email"] {
 .formBox {
   padding-top: 50px;
   width: 600px;
-  height: 1250px;
   margin-left: 1950px;
   position: absolute;
   z-index: 10;
@@ -73,7 +72,7 @@ input[type="email"] {
 .bgBox {
   background-image: url(img/texture-img-dark.png);
   width: 600px;
-  height: 1302px;
+  height: 100%;
   margin-left: 1960px;
   opacity: 0.9;
   position: absolute;
@@ -203,6 +202,7 @@ a {
   position: absolute;
   width: 3125px;
   margin-left: -1600px;
+  height: 100%;
 }
 
 .logo {
