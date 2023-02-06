@@ -66,18 +66,18 @@ function Register({ test }) {
     for (let i = 0; i < data.length; i++) {
       //========wartość inputa = wartość JSON========\\
       if (val == data[i].login) {
-        document.querySelector("#uidnote").innerHTML = "Login jest juz zajęty";
+        document.querySelector("#uidnote").innerHTML = "Login is already taken";
         setLogincheckk(false);
         break;
         //========puste pole inputa========\\
       } else if (val.length == 0) {
-        document.querySelector("#uidnote").innerHTML = "Nipoprawny format";
+        document.querySelector("#uidnote").innerHTML = "Invalid format";
         setLogincheckk(false);
         break;
         //========niewystarczajaca liczba znakow========\\
       } else if (val.length < 4) {
         document.querySelector("#uidnote").innerHTML =
-          "Musi być więcej niż 3 znaki";
+          "Login must have more than 3 characters";
         setLogincheckk(false);
         break;
         //========gdy wszystko sie zgadza========\\
@@ -112,12 +112,12 @@ function Register({ test }) {
     for (let i = 0; i < data.length; i++) {
       //========wartość inputa = wartość JSON========\\
       if (val == data[i].email) {
-        document.querySelector("#uidnoteemail").innerHTML = "Email w użyciu";
+        document.querySelector("#uidnoteemail").innerHTML = "Email in use";
         setEmailcheck(false);
         break;
         //========puste pole inputa========\\
       } else if (val.length == 0) {
-        document.querySelector("#uidnoteemail").innerHTML = "Nipoprawny format";
+        document.querySelector("#uidnoteemail").innerHTML = "Invalid format";
         setEmailcheck(false);
         break;
         //========niewystarczajaca liczba znakow========\\
@@ -127,7 +127,7 @@ function Register({ test }) {
         //========gdy wszystko sie zgadza========\\
       } else {
         document.querySelector("#uidnoteemail").innerHTML =
-          "Podaj poprawny email";
+          "Enter a valid email";
         setEmailcheck(false);
         break;
       }
@@ -158,7 +158,7 @@ function Register({ test }) {
 
     for (let i = 0; i < data.length; i++) {
       if (valPass.length == 0) {
-        document.querySelector("#uidnotepass").innerHTML = "Nipoprawny format";
+        document.querySelector("#uidnotepass").innerHTML = "Invalid format";
         setPasscheck(false);
         break;
       } else if (passCheck.test(valPass)) {
@@ -167,7 +167,7 @@ function Register({ test }) {
         break;
       } else {
         document.querySelector("#uidnotepass").innerHTML =
-          "Hasło musi posiadać Litere wielką i znak specjalny, długość minimalna 8 znaków";
+          "The password must contain a capital letter, a special character and must be at least 8 characters long";
         setPasscheck(false);
         break;
       }
@@ -254,12 +254,12 @@ function Register({ test }) {
         break;
       } else if (valPassMach.length == 0) {
         document.querySelector("#uidnotepassmatchs").innerHTML =
-          "Nipoprawny format";
+          "Invalid format";
         setPassCheckcheck(false);
         break;
       } else {
         document.querySelector("#uidnotepassmatchs").innerHTML =
-          "Hasłą nie są takie same";
+          "Passwords are not the same";
         setPassCheckcheck(false);
         break;
       }
@@ -281,7 +281,7 @@ function Register({ test }) {
         ghfdsgafd.innerHTML = data[s].id;
         break;
       } else {
-        document.querySelector("#uidnote").innerHTML = "Podaj Login";
+        document.querySelector("#uidnote").innerHTML = "Enter Login";
         setLogincheckAv(false);
       }
     }
@@ -299,7 +299,7 @@ function Register({ test }) {
         console.log("tak");
         break;
       } else {
-        document.querySelector("#uidnote").innerHTML = "Podaj Hasło";
+        document.querySelector("#uidnote").innerHTML = "Enter password";
         setPassAv(false);
       }
     }

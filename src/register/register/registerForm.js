@@ -99,7 +99,7 @@ function RegisterForm({
                   validtest && !Logincheckk ? "instructions" : "offscreen"
                 }
               >
-                Nipoprawny format
+                Invalid format
               </p>
             </div>
             {/*=========//EMAIL//=========*/}
@@ -133,7 +133,7 @@ function RegisterForm({
                   validtestEmail && !Emailcheck ? "instructions" : "offscreen"
                 }
               >
-                Nipoprawny format
+                Invalid format
               </p>
             </div>
             {/*=========//PASSWORD//=========*/}
@@ -164,7 +164,7 @@ function RegisterForm({
                   passwordFocus && !Passcheck ? "instructions" : "offscreen"
                 }
               >
-                Hasło Wymagane
+                Password Required
               </p>
             </div>
             {/*=========//PASSWORD MATCH//=========*/}

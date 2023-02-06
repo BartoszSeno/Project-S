@@ -77,7 +77,7 @@ function LoginForm({
                   validtest && !LogincheckAv ? "instructions" : "offscreen"
                 }
               >
-                Podaj Login
+                Enter Login
               </p>
             </div>
             {/*=========//PASSWORD//=========*/}
@@ -108,7 +108,7 @@ function LoginForm({
                   passwordFocus && !PassAv ? "instructions" : "offscreen"
                 }
               >
-                Podaj Hasło
+                Enter password
               </p>
             </div>
             {/*=========//BUTTON//=========*/}
