@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import RegisterClickIcon from "../infromation/registerinformation/registerIconClick";
 
 function RegisterForm({
   handleSubmit,
@@ -38,6 +39,7 @@ function RegisterForm({
   Emailcheck,
   Passcheck,
   PassCheckcheck,
+  items,
 }) {
   return (
     <>
@@ -52,6 +54,7 @@ function RegisterForm({
               Project S
             </Link>
           </div>
+          <RegisterClickIcon items={items} />
           <video
             width="1900"
             muted="muted"

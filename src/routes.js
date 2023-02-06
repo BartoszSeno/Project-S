@@ -350,6 +350,7 @@ function Register({ test }) {
                 validMatch={validMatch}
                 matchFocus={matchFocus}
                 inputRef={inputRef}
+                items={items}
               />
             }
           />
