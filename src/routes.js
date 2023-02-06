@@ -309,7 +309,6 @@ function Register({ test }) {
     <>
       <BrowserRouter basename="/Project-S">
         <ScrollToTop />
-
         <Routes>
           <Route
             path="/register"
@@ -387,6 +386,7 @@ function Register({ test }) {
                 passwordFocus={passwordFocus}
                 inputRef={inputRef}
                 data={data}
+                items={items}
               />
             }
           />

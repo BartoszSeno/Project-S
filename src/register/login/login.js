@@ -32,6 +32,7 @@ function LoginForm({
   passPassAv,
   PassAv,
   handleSubmitLogin,
+  items,
 }) {
   return (
     <>
@@ -46,7 +47,7 @@ function LoginForm({
               Project S
             </Link>
           </div>
-          <LoginClickIcon />
+          <LoginClickIcon items={items} />
           <form onSubmit={handleSubmitLogin} className="loginBox">
             {/*=========//Login//=========*/}
             <div className="Login_Box">
