@@ -1,5 +1,6 @@
 import "../register.css";
 import { Link } from "react-router-dom";
+import LoginClickIcon from "../infromation/loginIinforamtion/loginIconClick";
 
 function LoginForm({
   setvalidtest,
@@ -45,6 +46,7 @@ function LoginForm({
               Project S
             </Link>
           </div>
+          <LoginClickIcon />
           <form onSubmit={handleSubmitLogin} className="loginBox">
             {/*=========//Login//=========*/}
             <div className="Login_Box">

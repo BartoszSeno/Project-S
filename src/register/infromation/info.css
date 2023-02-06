@@ -1,0 +1,17 @@
+.button-info-img {
+  background-image: url(info.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 65px;
+  height: 65px;
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  margin-left: -420px;
+  margin-top: 150px;
+  cursor: pointer;
+}
+
+.button-info-img:hover {
+  transform: scale(1.1);
+}
