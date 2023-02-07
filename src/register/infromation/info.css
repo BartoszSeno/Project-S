@@ -96,7 +96,6 @@
   font-size: 25px;
   margin-top: 50px;
   margin-left: 1450px;
-  background-color: red;
   border: 4px solid #1b2027;
   color: white;
 }
@@ -117,6 +116,16 @@
     margin-top: 150px;
     margin-left: 440px;
   }
+  /*reg*/
+  .bimgr {
+    margin-left: 450px;
+    margin-top: 50px;
+  }
+
+  .information-box-reg {
+    margin-top: 50px;
+    margin-left: 1300px;
+  }
 }
 
 @media (max-width: 2134px) {
@@ -127,6 +136,17 @@
   .information-box {
     margin-top: 140px;
     margin-left: 350px;
+  }
+  /*reg*/
+  .bimgr {
+    margin-left: 280px;
+    margin-top: 50px;
+  }
+
+  .information-box-reg {
+    transform: scale(0.8);
+    margin-top: -60px;
+    margin-left: 1150px;
   }
 }
 
@@ -139,5 +159,16 @@
     margin-top: 100px;
     margin-left: 290px;
     transform: scale(0.9);
+  }
+  /*reg*/
+  .bimgr {
+    margin-left: 80px;
+    margin-top: 50px;
+  }
+
+  .information-box-reg {
+    transform: scale(0.7);
+    margin-top: -115px;
+    margin-left: 990px;
   }
 }
