@@ -71,7 +71,7 @@
   .lgacc {
     font-size: 30px;
     margin-left: 1760px;
-    margin-top: 700px;
+    margin-top: 730px;
   }
 
   .bgBox {
@@ -103,6 +103,12 @@
   }
   .titleLabel {
     font-size: 30px;
+  }
+  .logi {
+    margin: 0;
+    margin-bottom: -10px;
+    display: flex;
+    padding-left: 440px;
   }
   .ema {
     margin-left: -300px;
@@ -141,8 +147,8 @@
 
   .lgacc {
     font-size: 25px;
-    margin-left: 1570px;
-    margin-top: 680px;
+    margin-left: 1550px;
+    margin-top: 750px;
   }
 
   .bgBox {
@@ -175,9 +181,21 @@
   .titleLabel {
     font-size: 30px;
   }
+  .logi {
+    margin: 0;
+    margin-bottom: -10px;
+    display: flex;
+    padding-left: 310px;
+  }
   .ema {
     margin-left: -300px;
   }
+  .psw {
+    display: flex;
+    margin-bottom: -10px;
+    padding-left: 240px;
+  }
+
   .instructions {
     font-size: 25px;
     width: 350px;

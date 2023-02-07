@@ -74,7 +74,7 @@ function RegisterForm({
           <form onSubmit={handleSubmit} className="formBox">
             {/*=========//Login//=========*/}
             <div className="Login_Box">
-              <label htmlFor="username" className="titleLabel">
+              <label htmlFor="username" className="titleLabel logi">
                 Login
               </label>
               <br />
